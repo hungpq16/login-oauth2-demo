@@ -1,0 +1,12 @@
+#url1:
+http://localhost:8081/oauth2/callback
+#url2:
+http://localhost:8081/oauth2/callback/google
+#url3: use when create token
+http://localhost:8081/login/oauth2/code/google
+#url4:
+https://www.getpostman.com/oauth2/callback
+
+#url5:
+http://localhost:8081/login/oauth2/code/github
+
